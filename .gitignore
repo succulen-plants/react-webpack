@@ -1,0 +1,15 @@
+node_modules/
+/dist/
+*.log
+api/composite/__pycache__/
+.DS_Store
+app/config.js.back.js
+.idea
+api/.python-version
+api/__pycache__
+test/
+webpack_cache/
+yarn.lock
+app/vendor.*
+package-lock.json
+app/index.html
